@@ -76,7 +76,7 @@ export default function App() {
             <div className="divider my-4" />
 
             <div className="mb-4">
-              <p className="address-text mb-3">425 Boul. Saint-Joseph, Gatineau, QC</p>
+              <p className="address-text mb-3">123 Fake Address, Ottawa, ON</p>
 
               <div className="map-placeholder-box d-flex align-items-center justify-content-center">
                 <div className="text-center">
